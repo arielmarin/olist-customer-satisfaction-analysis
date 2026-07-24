@@ -31,7 +31,7 @@ El proyecto integra información proveniente de distintos datasets relacionados 
 - Reseñas
 - Vendedores 
 
-![Data Base](data_base.jpg)
+![Data Base](/images/data_base.jpg)
 
 ### Metodologia 
 
@@ -141,7 +141,7 @@ El dashboard presenta los indicadores más relevantes relacionados con la satisf
 
 ## Vista del Dashboard
 
-![Dashboard de Power BI](olist-customer-satisfaction-analysis.jpg)
+![Dashboard de Power BI](/images/olist-customer-satisfaction-analysis.jpg)
 
 ## Conclusiones
 
