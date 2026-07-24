@@ -60,7 +60,7 @@ Las tablas Orders y Order Items constituyen el núcleo del modelo, ya que permit
 
 Esta estructura facilita el análisis desde múltiples perspectivas, aunque requiere un proceso previo de integración y preparación de los datos.
 
-#### Agregar Imagen modelo de datos relacional
+![Data Base](data_base.jpg)
 
 ## Metodología
 

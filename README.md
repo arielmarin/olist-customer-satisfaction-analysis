@@ -31,6 +31,8 @@ El proyecto integra información proveniente de distintos datasets relacionados 
 - Reseñas
 - Vendedores 
 
+![Data Base](data_base.jpg)
+
 ### Metodologia 
 
 El desarrollo del proyecto siguió un flujo completo de análisis de datos, desde la comprensión de las fuentes de información hasta la obtención de conclusiones orientadas al negocio.
@@ -130,6 +132,16 @@ Los principales hallazgos fueron:
 - La cantidad de productos y el número de pagos no evidenciaron una relación significativa con las calificaciones.
 
 En conjunto, los resultados respaldan la hipótesis planteada al inicio del proyecto, indicando que el desempeño logístico influye considerablemente más en la satisfacción del cliente que el valor económico de la compra.
+
+## Dashboard Interactivo
+
+Como complemento del análisis exploratorio, se desarrolló un dashboard interactivo en Power BI con el objetivo de resumir los principales hallazgos del proyecto de forma visual e intuitiva.
+
+El dashboard presenta los indicadores más relevantes relacionados con la satisfacción del cliente, incluyendo métricas generales, la distribución de las calificaciones y las principales variables analizadas durante el EDA, como el tiempo de entrega, el porcentaje de pedidos con retraso, el precio promedio y el costo de envío. De esta manera, permite identificar rápidamente los factores que muestran una mayor asociación con las reseñas de los clientes y facilita la interpretación de los resultados obtenidos.
+
+## Vista del Dashboard
+
+![Dashboard de Power BI](olist-customer-satisfaction-analysis.jpg)
 
 ## Conclusiones
 
